@@ -11,17 +11,17 @@ It features modern routing, interactive UI elements, smooth navigation, and back
 
 ## Screenshots
 
-### Database Schema  
-![Database](images/database.png)
-
-### Explore Page  
-![Explore](images/explore.png)
+### Login Page  
+![Login](images/login.png)
 
 ### Home Page  
 ![Home](images/home.png)
 
-### Login Page  
-![Login](images/login.png)
+### Explore Page  
+![Explore](images/explore.png)
+
+### Database Schema  
+![Database](images/database.png)
 
 ## How to Run
 
